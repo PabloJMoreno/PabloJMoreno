@@ -4,6 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pablojmoreno&label=Profile%20views&color=0e75b6&style=flat" alt="pablojmoreno" /> </p>
 
+
 - 🔭 I’m currently working as **Analyst** at [Acceleration Economy Analyst](accelerationeconomy.com) and **Head of AI** at [SumamoOs](sumamoos.com)
 
 - 🌱 I’m currently learning **many things related to data, but specially Data Engineering like Apache ecosystem**
