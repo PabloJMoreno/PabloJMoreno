@@ -1,5 +1,5 @@
 [![MasterHead](https://media.giphy.com/media/3KYakglSJtPblufMLQ/giphy.gif)](mlbi.io)
-<h1 align="left">Hi 👋, This is Pablo Moreno, Business Data Scientist</h1>
+<h1 align="left">Pablo Moreno, Business Data Scientist</h1>
 <h3 align="left"><br>Author of the book "Machine Learning in Power BI with R and Python" and Microsoft MVP 'data platform'.</br> <br>Experience in Business Intelligence, Advanced Analytics and Machine Learning within multiple business fields -Financial Markets, Corporate Finance, Digital Marketing, Supply Chain, Operations, Risk Management and Internal Controls / Internal Audit-, gained within global environments over the last 20 years.</br> <br>Data Project Managers (Waterfall & Agile) gained within multiple industries worldwide with strategic outlook and proven leadership ability. Owner of MLBI.IO, book publisher specialized in data spanish content</br> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pablojmoreno&label=Profile%20views&color=0e75b6&style=flat" alt="pablojmoreno" /> </p>
