@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pablojmoreno&label=Profile%20views&color=0e75b6&style=flat" alt="pablojmoreno" /> </p>
 
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
+
 
 - 🔭 I’m currently working as **Analyst** at [Acceleration Economy Analyst](accelerationeconomy.com) and **Head of AI** at [SumamoOs](sumamoos.com)
 
@@ -11,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Anything related to ML / AI**
 
-- 🤝 I’m looking for help with **PyCaret**
+- 🤝 I’m looking for help with [PyCaret](pycaret.org) or **Power BI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PabloJMoreno](https://github.com/PabloJMoreno) some of them are private
 
