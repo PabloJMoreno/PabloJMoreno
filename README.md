@@ -1,13 +1,13 @@
 [![MasterHead](https://media.giphy.com/media/3KYakglSJtPblufMLQ/giphy.gif)](mlbi.io)
 <h1 align="left">Pablo Moreno, Business Data Scientist</h1>
-<h3 align="left"><br>Author of the book "Machine Learning in Power BI with R and Python" and Microsoft MVP 'data platform'.</br> <br>Experience in Business Intelligence, Advanced Analytics and Machine Learning within multiple business fields -Financial Markets, Corporate Finance, Digital Marketing, Supply Chain, Operations, Risk Management and Internal Controls / Internal Audit-, gained within global environments over the last 20 years.</br> <br>Data Project Managers (Waterfall & Agile) gained within multiple industries worldwide with strategic outlook and proven leadership ability. Owner of MLBI.IO, book publisher specialized in data spanish content</br> </h3>
+<h3 align="left"><br>Author of the book "Machine Learning in Power BI with R and Python" and Microsoft MVP 'data platform'.</br> <br>Experience in Business Intelligence, Machine Learning Engineering, Artificial Intelligence, MLOps, AI Education and Training.</br> <br>Domain knowledge: Financial Markets, FineTch, EdTech, Corporate Finance, Digital Marketing, Supply Chain, Business Operations, Risk Management and Internal Controls / Internal Audit</br><br>Data Project Manager (Waterfall & Agile).</br><br> Call me if it looks impossible or nobody wants to do it.</br> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pablojmoreno&label=Profile%20views&color=0e75b6&style=flat" alt="pablojmoreno" /> </p>
 
 
 - 🔭 I’m currently working as **Analyst** at [Acceleration Economy Analyst](accelerationeconomy.com) and **Head of AI** at [SumamoOs](sumamoos.com)
 
-- 🌱 I’m currently learning **many things related to data, but specially Data Engineering like Apache ecosystem**
+- 🌱 I’m currently learning **Data Engineering like Apache ecosystem**
 
 - 👯 I’m looking to collaborate on **Anything related to ML / AI**
 
@@ -17,13 +17,13 @@
 
 - 📝 I regularly write articles on [accelerationeconomy.com](accelerationeconomy.com)
 
-- 💬 Ask me about **Power BI, Data Analyis, ML or PyCaret**
+- 💬 Ask me about **Power BI, Data Analyis, ML, EdTech or PyCaret**
 
 - 📫 How to reach me **LinkedIn**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/pablo-moreno-363188150/](https://www.linkedin.com/in/pablo-moreno-363188150/)
 
-- ⚡ Fun fact **Lived and worked in 7 countries in 3 continents**
+- ⚡ Fun fact **Lived and worked in 7 countries in 3 continents. Owner of MLBI.IO, book publisher**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
