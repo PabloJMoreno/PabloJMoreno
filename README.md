@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working as **Analyst** at [Acceleration Economy Analyst](accelerationeconomy.com) and **Head of AI** at [SumamoOs](sumamoos.com)
 
-- 🌱 I’m currently learning **Data Engineering like Apache ecosystem**
+- 🌱 I’m learning **Data Engineering like Apache ecosystem**
 
 - 👯 I’m looking to collaborate on **Anything related to ML / AI**
 
-- 🤝 I’m looking for help with [PyCaret](pycaret.org) or **Power BI**
+- 🤝 I enjoy helping with [PyCaret](pycaret.org) or **Power BI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PabloJMoreno](https://github.com/PabloJMoreno) some of them are private
 
