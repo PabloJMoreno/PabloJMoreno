@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working as **Analyst** at [Acceleration Economy Analyst](accelerationeconomy.com) and **Head of AI** at [SumamoOs](sumamoos.com)
 
-- 🌱 I’m learning **Data Engineering like Apache ecosystem**
+- 🌱 I’m learning **Data Engineering** and **Real Time ML**
 
 - 👯 I’m looking to collaborate on **Anything related to ML / AI**
 
@@ -21,9 +21,9 @@
 
 - 💬 Ask me about **Power BI, Data Analyis, ML, EdTech or PyCaret**
 
-- 📫 How to reach me **LinkedIn**
+- 📫 How to reach me: **LinkedIn**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/pablo-moreno-363188150/](https://www.linkedin.com/in/pablo-moreno-363188150/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/pablo-moreno-363188150/)
 
 - ⚡ Fun fact **Lived and worked in 7 countries in 3 continents. Owner of MLBI.IO, book publisher**
 
