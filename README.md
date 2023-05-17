@@ -2,7 +2,7 @@
 <h1 align="left">Pablo Moreno, Business Data Scientist</h1>
 <h3 align="left"><br>Author of the book "Machine Learning in Power BI with R and Python" and Microsoft MVP 'data platform'.</br> <br>Experience in Business Intelligence, Machine Learning Engineering, Artificial Intelligence, MLOps, AI Education and Training.</br> <br>Domain knowledge: Financial Markets, FineTch, EdTech, Corporate Finance, Digital Marketing, Supply Chain, Business Operations, Risk Management and Internal Controls / Internal Audit</br><br>Data Project Manager (Waterfall & Agile).</br><br> Call me if it looks impossible or nobody wants to do it.</br> </h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pablojmoreno&label=Profile%20views&color=0e75b6&style=flat" alt="pablojmoreno" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pablojmoreno&label=Profile%20views&color=0e75b6&style=flat" alt="pablojmoreno" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
 
