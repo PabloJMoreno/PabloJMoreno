@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working as **Analyst** at [Acceleration Economy Analyst](accelerationeconomy.com) and **Head of AI** at [SumamoOs](sumamoos.com)
 
-- 🌱 I’m learning **Data Engineering**, **Stream Analytics** and **Real Time ML**
+- 🌱 I’m learning **Data Engineering**, **Stream Analytics**, **Sec-ML** and **Real Time ML**
 
-- 👯 I’m looking to collaborate on **Anything related to ML / AI**
+- 👯 I’m looking to collaborate on **Anything related to ML / AI**, specially if is applied to Cybersecurity
 
-- 🤝 I enjoy helping with [PyCaret](pycaret.org) or **Power BI**
+- 🤝 I enjoy helping with [PyCaret](pycaret.org), **MS Fabric** or **Power BI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PabloJMoreno](https://github.com/PabloJMoreno) some of them are private
 
