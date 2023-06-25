@@ -1,19 +1,19 @@
 [![MasterHead](https://media.giphy.com/media/3KYakglSJtPblufMLQ/giphy.gif)](mlbi.io)
-<h1 align="left">Pablo Moreno, Business Data Scientist</h1>
-<h3 align="left"><br>Author of the book "Machine Learning in Power BI with R and Python" and Microsoft MVP 'data platform'.</br> <br>Experience in Business Intelligence, Machine Learning Engineering, Artificial Intelligence, MLOps, AI Education and Training.</br> <br>Domain knowledge: Financial Markets, FineTch, EdTech, Corporate Finance, Digital Marketing, Supply Chain, Business Operations, Risk Management and Internal Controls / Internal Audit</br><br>Data Project Manager (Waterfall & Agile).</br><br> Call me if it looks impossible or nobody wants to do it.</br> </h3>
+<h1 align="left">Pablo Moreno, Business Data Scientist and passionate for ML-Sec (applying ML to Cyber-Security)</h1>
+<h3 align="left"><br>Author of the book "Machine Learning in Power BI with R and Python" and Microsoft MVP 'data platform' since 2019.</br> <br>Experience in Business Intelligence, Machine Learning Engineering, Artificial Intelligence, MLOps, AI Education and Training.</br> <br>Domain knowledge: Financial Markets, FineTch, EdTech, Corporate Finance, Digital Marketing, Supply Chain, Business Operations, Risk Management and Internal Controls / Internal Audit</br><br>Data Project Manager (Waterfall & Agile).</br><br> Call me if it looks impossible or nobody wants to do it.</br> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pablojmoreno&label=Profile%20views&color=0e75b6&style=flat" alt="pablojmoreno" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
 
 
-- 🔭 I’m currently working as **Analyst** at [Acceleration Economy Analyst](accelerationeconomy.com) and **Head of AI** at [SumamoOs](sumamoos.com)
+- 🔭 I’m currently working as **Analyst** at [Acceleration Economy Analyst](accelerationeconomy.com) and **AI Freelance**
 
 - 🌱 I’m learning **Data Engineering**, **Stream Analytics**, **Sec-ML** and **Real Time ML**
 
 - 👯 I’m looking to collaborate on **Anything related to ML / AI**, specially if is applied to Cybersecurity
 
-- 🤝 I enjoy helping with [PyCaret](pycaret.org), **MS Fabric** or **Power BI**
+- 🤝 I enjoy helping with [PyCaret](pycaret.org), **MS Fabric** or **Power BI**. Volunteer at **Red Cross** for analytics and **AI for Good**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PabloJMoreno](https://github.com/PabloJMoreno) some of them are private
 
