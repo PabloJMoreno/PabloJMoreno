@@ -103,14 +103,6 @@ I also enjoy helping with **MS Fabric**.
 
 I've lived and worked in **7 countries across 3 continents**!
 
----
-```
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pablo-moreno-363188150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pablo-moreno-363188150" height="30" width="40" /></a>
-</p>
-
 [![Click to view Python CVE Dashboard](https://github.com/PabloJMoreno/PabloJMoreno/blob/main/Python_CVE.png)](https://app.powerbi.com/view?r=eyJrIjoiNGJjNjYxYTYtZWI2ZC00YjM3LWE3NDQtMmMyYzhmZmJkNzAyIiwidCI6ImUzYjE5YzBlLWE2YWMtNGZjYS04YmFhLWY0MjcxY2NmNjI0ZCIsImMiOjF9)
 
 <h3 align="left">Languages and Tools:</h3>
