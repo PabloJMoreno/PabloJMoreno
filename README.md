@@ -1,7 +1,5 @@
 [![MasterHead](https://media.giphy.com/media/3KYakglSJtPblufMLQ/giphy.gif)](mlbi.io)
-Here is a modern and comprehensive GitHub landing page for you in markdown format, drawing on your CV and GitHub profile. It highlights your expertise as a GenAI Engineer, Data Scientist, and AI Product Manager.
 
-```markdown
 # Hi, I'm **Pablo J. Moreno**! 👋
 
 ### **GenAI Engineer | Sr. Data Scientist | AI Product Manager**
