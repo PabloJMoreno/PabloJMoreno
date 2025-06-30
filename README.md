@@ -17,6 +17,7 @@ My expertise also spans **Machine Learning Engineering**, **MLOps**, and **NLP**
 A strong advocate for open-source development, I'm a **Microsoft MVP for Data Platform since 2019**, an author of "Machine Learning in Power BI with R and Python," and a University Professor of ML and AI.
 
 ---
+# **"Call me if it looks impossible or nobody wants to do it"**
 
 ### **What I'm Currently Up To**
 
@@ -54,7 +55,7 @@ I also enjoy helping with **MS Fabric**.
 
 ### **Key Skills & Technologies**
 
-**Core Areas:**
+# **Core Areas:**
 *   **Artificial Intelligence (AI)**
 *   **Generative AI (GenAI)**
 *   **Machine Learning Engineering**
@@ -63,27 +64,27 @@ I also enjoy helping with **MS Fabric**.
 *   **AI Product Management**
 *   **Business Intelligence & Data Quality**
 
-**Programming & Frameworks:**
+# **Programming & Frameworks:**
 *   **Python**
-*   Tensorflow
-*   HuggingFace
-*   PySpark
-*   LangChain, LangGraph, LlamaIndex, crewAI
+*   **Tensorflow**
+*   **HuggingFace**
+*  **PySpark**
+*   **LangChain, LangGraph, LlamaIndex, crewAI, smolagents, AutoGen**
 
-**Cloud Platforms & Tools:**
+# **Cloud Platforms & Tools:**
 *   **Azure** (Synapse, ML, Data Factory, DevOps, Copilot Studio)
-*   AWS
-*   Databricks
-*   SnowFlake
-*   Docker, Kubernetes
-*   UiPath, Power Automate (RPA)
-*   VectorDB, Pinecone
+*   **AWS**
+*  **Databricks**
+*   **SnowFlake**
+*   **Docker, Kubernetes**
+*   **UiPath, Power Automate (RPA)**
+*   **VectorDB, Pinecone**
 
-**Databases & Reporting:**
-*   SQL Server, Oracle, Salesforce
-*   Power BI, Qlik, Tableau
+# **Databases & Reporting:**
+*   **SQL Server, Oracle, Salesforce**
+*   **Power BI, Qlik, Tableau**
 
-**Soft Skills:**
+# **Soft Skills:**
 *   **Critical Thinking**
 *   **Business Rationale**
 *   **Problem Finder / Problem Solver**
