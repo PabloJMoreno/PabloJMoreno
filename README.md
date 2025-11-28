@@ -45,11 +45,11 @@ I'm keen to collaborate on **anything related to ML / AI**, especially projects 
 Feel free to **ask me about**:
 *   **Power BI**
 *   **Data Analysis**
-*   **Machine Learning (ML)**
+*   **Machine Learning (ML), Artificial Intelligence (AI)**
 *   **EdTech**
-*   **PyCaret**
+*   **AI Agents - HyperAutomation**
 
-I also enjoy helping with **MS Fabric**.
+I also enjoy helping with **Azure**.
 
 ---
 
