@@ -17,6 +17,11 @@ My expertise also spans **Machine Learning Engineering**, **MLOps**, and **NLP**
 A strong advocate for open-source development, I'm a **Microsoft MVP for Data Platform since 2019**, an author of "Machine Learning in Power BI with R and Python," and a University Professor of ML and AI.
 
 ---
+
+# **Fun Fact** 
+"Apparently, some recruiters think I can’t code in Python and was never a developer —guess being ‘too business-oriented’ makes me allergic to code? Who knows…"
+
+---
 # **"Call me if it looks impossible or nobody wants to do it"**
 
 ### **What I'm Currently Up To**
