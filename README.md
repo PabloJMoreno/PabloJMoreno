@@ -14,7 +14,7 @@ As a **GenAI Engineer**, I specialize in developing cutting-edge solutions. My w
 
 My expertise also spans **Machine Learning Engineering**, **MLOps**, and **NLP**, where I have successfully delivered numerous data products across diverse industries such as Banking, Financial Markets, EdTech, Supply Chain, and Legal Operations. I am passionate about applying **Machine Learning to Cyber-Security (ML-Sec)** and working with **Real-Time Analytics**.
 
-A strong advocate for open-source development, I'm a **Microsoft MVP for Data Platform since 2019**, an author of "Machine Learning in Power BI with R and Python," and a University Professor of ML and AI.
+A strong advocate for open-source development, I'm a **Microsoft MVP for Data Platform since 2019**, an author of "Machine Learning in Power BI with R and Python," "MLOps From Notebook To Pipeline", and a University Professor of ML / AI and Quantitative Finance.
 
 ---
 
